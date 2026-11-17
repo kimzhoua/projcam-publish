@@ -1,4 +1,0 @@
-{
-  "payload": "{\n  \"versionCode\": 1,\n  \"versionName\": \"1.0.0\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/projcam-publish/main/fwtrans/app-1.0.0.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/projcam-publish/main/fwtrans/app-1.0.0.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/projcam-publish/main/fwtrans/update.json\",\n  \"sha256\": \"cb3e396ffb7c5a80572f349cf4abb424cd37be1615e01368b6bb4fe19dd74632\",\n  \"notes\": \"首版：华为/华三/飞塔/山石/Palo Alto/Cisco ASA 六家防火墙配置互转（地址、服务、策略、NAT）\"\n}",
-  "sig": "WHUd0o+d5SC7GywLrHOd7ZfDCqffwcOGDWxa8EQBHC4QR2ixYbxrNQUd8JUA8alecBbKTUzWtW0l1CcDRgxebaG9qdsFurhe3hK8JHdEpQCtmgyEX0R6UOa3Wf7rcxlQc+AROlE9EGSmqvK+qj3w6spXDZs3dldcYWJL89rNaPNLzHqD/ID0ohDH75xFWuO1BQnYBWtm91t6WoPsMILVvI9nszHj1gBmSdfF+JPzfXYnp6pI5H/2EEgOT56sdLSFW1JbvkrtyhYay+tMFRprvBqrUIGmvPhkJp9ypXTXj20sLFIxsQBl/0/dSZe/mCW1RXQuA9ny1iu19qiWw1xGOw=="
-}
